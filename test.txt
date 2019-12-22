@@ -1,0 +1,38 @@
+WORKSHOP STRUCTURE
+-Introduction ML / AI Applications and Use Cases
+-Python for Data Science
+
+Introduction to Python for Data Science
+-Basic Data Exploration using Python
+-Basic Data Munging in Python
+-Basic Feature Engineering
+
+Basic Concepts of Machine Learning
+-Machine Learning Algorithms and Techniques
+-Python interfaces for Machine Learning
+
+Guided Case Study
+-Walk-through of a sample ML Case-Study
+
+Workshop Case Study
+-Participants to work on the case-study
+-Presentation of key analytics and ML solution
+
+Duration: 8 Hours
+This workshop is an instructor-led hands-on classroom session.
+
+Audience
+This course is primarily for young AI enthusiasts seeking an intensive hands-on introduction to machine learning.
+
+Pre-requisites
+Participants need to analyze the case study, download the datasets and tools before the start of the workshop
+Laptop (Compulsory at the Time of Event)
+
+What do you get out of Workshop
+-Understand some industry-specific ML use-cases
+-Feature Selection and Feature Engineering
+-Understand types of learning
+-Model Selection
+-Overview of machine learning algorithms
+-Model Evaluation & Performance
+-How to explore data
